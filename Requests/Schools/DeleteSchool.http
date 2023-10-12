@@ -1,0 +1,5 @@
+@host=http://localhost:5180
+@id=E9BF7B7A-C363-40E4-83B4-341ADA0CA906
+
+DELETE {{host}}/schools/{{id}}
+

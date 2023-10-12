@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eC68tSylUOm4QoJwzqsH5iibdy8JzoLs2obBV+G08SgSf/pcfQrrbmdB6Tul5o4/4aYzyi0lmqXpLOkjVRewrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adev0\\Coding\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adev0\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

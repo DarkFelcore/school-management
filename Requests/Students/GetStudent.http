@@ -1,0 +1,4 @@
+@host=http://localhost:5180
+@id=F0229C2B-3BA8-4082-B0C8-968DD6C69077
+
+GET {{host}}/students/{{id}}

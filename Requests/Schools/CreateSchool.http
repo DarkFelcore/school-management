@@ -1,0 +1,9 @@
+@host=http://localhost:5180
+
+POST {{host}}/schools
+Content-Type: application/json
+
+{
+    "Name": "De Nae",
+    "SchoolType": "HighSchool"
+}

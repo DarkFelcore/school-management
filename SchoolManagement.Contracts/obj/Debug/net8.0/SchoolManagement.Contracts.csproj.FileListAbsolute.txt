@@ -1,0 +1,11 @@
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\bin\Debug\net8.0\SchoolManagement.Contracts.deps.json
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\bin\Debug\net8.0\SchoolManagement.Contracts.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\bin\Debug\net8.0\SchoolManagement.Contracts.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\SchoolManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\SchoolManagement.Contracts.AssemblyInfoInputs.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\SchoolManagement.Contracts.AssemblyInfo.cs
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\SchoolManagement.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\SchoolManagement.Contracts.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\refint\SchoolManagement.Contracts.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\SchoolManagement.Contracts.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net8.0\ref\SchoolManagement.Contracts.dll

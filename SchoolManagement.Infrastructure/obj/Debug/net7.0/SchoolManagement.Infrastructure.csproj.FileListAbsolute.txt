@@ -1,0 +1,17 @@
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net7.0\SchoolManagement.Infrastructure.deps.json
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net7.0\SchoolManagement.Infrastructure.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net7.0\SchoolManagement.Infrastructure.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net7.0\SchoolManagement.Application.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net7.0\SchoolManagement.Domain.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net7.0\SchoolManagement.Application.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net7.0\SchoolManagement.Domain.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.csproj.CopyComplete
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\refint\SchoolManagement.Infrastructure.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\ref\SchoolManagement.Infrastructure.dll

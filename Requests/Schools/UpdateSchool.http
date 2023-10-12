@@ -1,0 +1,10 @@
+@host=http://localhost:5180
+@id=979BABEB-4E81-4CA9-B6A1-471253EF1C26
+
+PUT {{host}}/schools/{{id}}
+Content-Type: application/json
+
+{
+    "Name": "De Nayer V1",
+    "SchoolType": "University"
+}

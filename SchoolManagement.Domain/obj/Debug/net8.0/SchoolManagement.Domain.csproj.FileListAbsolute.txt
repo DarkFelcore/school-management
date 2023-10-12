@@ -1,0 +1,11 @@
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.deps.json
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.AssemblyInfo.cs
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\refint\SchoolManagement.Domain.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.pdb
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\ref\SchoolManagement.Domain.dll
