@@ -488,3 +488,6 @@ $RECYCLE.BIN/
 
 bin/
 obj/
+
+.vs/
+.vscode/
