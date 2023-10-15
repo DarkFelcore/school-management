@@ -15,3 +15,4 @@ C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\refint\SchoolManagement.Infrastructure.dll
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.pdb
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\ref\SchoolManagement.Infrastructure.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net7.0\SchoolManagement.Infrastructure.sourcelink.json

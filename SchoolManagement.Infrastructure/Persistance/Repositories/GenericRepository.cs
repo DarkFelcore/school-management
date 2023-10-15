@@ -4,7 +4,7 @@ using SchoolManagement.Application.Common.Interfaces;
 namespace SchoolManagement.Infrastructure.Persistance.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T>
-        where T : class, new()
+        where T : class
     {
         protected ApplicationDbContext _context;
         internal DbSet<T> DbSet;

@@ -9,3 +9,4 @@ C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net7
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net7.0\refint\SchoolManagement.Contracts.dll
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net7.0\SchoolManagement.Contracts.pdb
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net7.0\ref\SchoolManagement.Contracts.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Contracts\obj\Debug\net7.0\SchoolManagement.Contracts.sourcelink.json

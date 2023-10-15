@@ -1,5 +1,8 @@
 @host=http://localhost:5180
 @id=f0229c2b-3ba8-4082-b0c8-968dd6c69077
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkYzRmMzk1MS04NWYwLTQ5YzMtODRjOC0yNWYyMjFhNzYzZDQiLCJnaXZlbl9uYW1lIjoiQW50aG9ueSIsImZhbWlseV9uYW1lIjoiRGV2aWxsZSIsImp0aSI6IjkwOTI0OWRmLTcyYmEtNDg0Ny1hNDYyLTBmOTM2ZWU5MzQ4MiIsImV4cCI6MTY5NzM2NTM5MiwiaXNzIjoiU2Nob29sTWFuYWdlbWVudCIsImF1ZCI6IlNjaG9vbE1hbmFnZW1lbnQifQ.ndPUz7IVosbsqcUKSbvhHP3L7_IEws_kdtGxZGhi980
+
 
 DELETE {{host}}/students/{{id}}
+Authorization: Bearer {{token}}
 

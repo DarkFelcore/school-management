@@ -8,19 +8,26 @@ using SchoolManagement.Domain.Schools.Enums;
 using SchoolManagement.Domain.Schools.ValueObjects;
 using SchoolManagement.Domain.Students;
 using SchoolManagement.Domain.Students.ValueObjects;
+using SchoolManagement.Domain.Users;
+using SchoolManagement.Domain.Users.ValueObjects;
 
 namespace SchoolManagement.Infrastructure.Persistance
 {
+    // -s: -startup-project
+    // -p: -project
+    // RUN MIGRATION: dotnet ef migrations add InitialCreate -p .\BuberDinner.Infrastructure\ -s .\BuberDinner.Api\
+    // UPDATE DATABASE: dotnet ef database update -p .\BuberDinner.Infrastructure\ -s .\BuberDinner.Api\
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
 
-        public DbSet<Student> Students {  get; set; }
+        public DbSet<Student> Students { get; set; }
         public DbSet<Lesson> Lessons { get; set; }
         public DbSet<School> Schools { get; set; }
         public DbSet<StudentLessons> StudentLessons { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -90,7 +97,17 @@ namespace SchoolManagement.Infrastructure.Persistance
                 .WithMany(s => s.StudentLessons)
                 .HasForeignKey(sc => sc.LessonId);
 
-            
+            // Users
+            modelBuilder.Entity<User>()
+                .HasKey(u => u.UserId);
+
+            modelBuilder.Entity<User>()
+                .Property(l => l.UserId)
+                .HasConversion
+                (
+                    id => id.Value,
+                    value => new UserId(value)
+                );
         }
 
     }

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gy6NxHlfQE377aLurZ0GLRlmvqJG6ArFtPtE4PgY5y5zs8+jt1EdRZEmfM3kENoDcL1wXghI26WsqPRMmlqJWA==",
+  "dgSpecHash": "kV6NZAwX1uib7Mf2G91y+qkVeywscKXB1lKwh6l4KE3PBZt5K1mq7BcFnG0bpZogzq0tenC1Tv01D2PoLjrOfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\adev0\\Coding\\SchoolManagement\\SchoolManagement.Application\\SchoolManagement.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adev0\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\adev0\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
     "C:\\Users\\adev0\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\adev0\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

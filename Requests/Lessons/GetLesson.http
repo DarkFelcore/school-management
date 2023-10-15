@@ -1,4 +1,6 @@
 @host=http://localhost:5180
 @id=624AB6F5-D18E-4485-9052-223C6E2CF30D
+@token=xxx
 
 GET {{host}}/lessons/{{id}}
+Authorization: Bearer {{token}}

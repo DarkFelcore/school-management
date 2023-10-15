@@ -88,3 +88,6 @@ C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Api\bin\Debug\net7.0\Med
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Api\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Api\obj\Debug\net7.0\SchoolManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Api\obj\Debug\net7.0\SchoolManagement.Api.sourcelink.json
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Api\bin\Debug\net7.0\BCrypt.Net-Next.dll

@@ -1,0 +1,12 @@
+@host=http://localhost:5180
+
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+    "FirstName": "Anthony",
+    "LastName": "Deville",
+    "Email": "user@codevolve.be",
+    "Password": "Codevolve123!",
+    "IsAdmin": false
+}

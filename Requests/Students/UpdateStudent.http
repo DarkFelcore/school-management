@@ -1,7 +1,10 @@
 @host=http://localhost:5180
 @id=715B6E45-31C2-4112-A714-D1CA060C6693
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkYzRmMzk1MS04NWYwLTQ5YzMtODRjOC0yNWYyMjFhNzYzZDQiLCJnaXZlbl9uYW1lIjoiQW50aG9ueSIsImZhbWlseV9uYW1lIjoiRGV2aWxsZSIsImp0aSI6IjkwOTI0OWRmLTcyYmEtNDg0Ny1hNDYyLTBmOTM2ZWU5MzQ4MiIsImV4cCI6MTY5NzM2NTM5MiwiaXNzIjoiU2Nob29sTWFuYWdlbWVudCIsImF1ZCI6IlNjaG9vbE1hbmFnZW1lbnQifQ.ndPUz7IVosbsqcUKSbvhHP3L7_IEws_kdtGxZGhi980
+
 
 PUT {{host}}/students/{{id}}
+Authorization: Bearer {{token}}
 Content-Type: application/json
 
 {

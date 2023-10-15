@@ -7,8 +7,8 @@ namespace SchoolManagement.Infrastructure.Persistance.Repositories
         private readonly ApplicationDbContext _context;
         public IStudentRepository StudentRepository { get; private set; }
         public ISchoolRepository SchoolRepository { get; private set; }
-
         public ILessonRepository LessonRepository { get; private set; }
+        public IUserRepository UserRepository { get; private set; }
 
         public UnitOfWork(ApplicationDbContext context)
         {
@@ -17,6 +17,7 @@ namespace SchoolManagement.Infrastructure.Persistance.Repositories
             StudentRepository =  new StudentRepository(_context);
             SchoolRepository =  new SchoolRepository(_context);
             LessonRepository = new LessonRepository(_context);
+            UserRepository = new UserRepository(_context);
         }
 
 

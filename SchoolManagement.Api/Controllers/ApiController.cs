@@ -1,11 +1,12 @@
 ﻿using ErrorOr;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using SchoolManagement.Api.Http;
 
 namespace SchoolManagement.Api.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class ApiController : ControllerBase

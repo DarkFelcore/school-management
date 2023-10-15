@@ -92,6 +92,35 @@ namespace SchoolManagement.Infrastructure.Migrations
                     b.ToTable("Students");
                 });
 
+            modelBuilder.Entity("SchoolManagement.Domain.Users.User", b =>
+                {
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool?>("IsAdmin")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PasswordHash")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("UserId");
+
+                    b.ToTable("Users");
+                });
+
             modelBuilder.Entity("SchoolManagement.Domain.Common.JoinedEntities.StudentLessons", b =>
                 {
                     b.HasOne("SchoolManagement.Domain.Lessons.Lesson", "Lesson")

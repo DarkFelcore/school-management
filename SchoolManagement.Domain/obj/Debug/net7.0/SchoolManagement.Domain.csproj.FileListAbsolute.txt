@@ -10,3 +10,4 @@ C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net7.0\
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net7.0\SchoolManagement.Domain.pdb
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net7.0\ref\SchoolManagement.Domain.dll
 C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net7.0\SchoolManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\adev0\Coding\SchoolManagement\SchoolManagement.Domain\obj\Debug\net7.0\SchoolManagement.Domain.sourcelink.json

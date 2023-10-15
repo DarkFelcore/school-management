@@ -1,11 +1,13 @@
 using MapsterMapper;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SchoolManagement.Application.Schools.Create;
 using SchoolManagement.Application.Schools.Delete;
 using SchoolManagement.Application.Schools.Get;
 using SchoolManagement.Application.Schools.Update;
 using SchoolManagement.Contracts.Schools;
+using SchoolManagement.Infrastructure.Identity;
 
 namespace SchoolManagement.Api.Controllers
 {
@@ -34,7 +36,7 @@ namespace SchoolManagement.Api.Controllers
             );
         }
 
-        
+
         [HttpGet("{id:guid}")]
         public async Task<IActionResult> GetSchoolByIdAsync(string id)
         {
@@ -72,9 +74,10 @@ namespace SchoolManagement.Api.Controllers
         }
 
         [HttpDelete("{id:guid}")]
+        [Authorize(Policy = IdentityData.AdminUserPolicyName)]
         public async Task<IActionResult> DeleteSchoolAsync(string id)
         {
-            var command =  new DeleteSchoolCommand(id);
+            var command = new DeleteSchoolCommand(id);
             var result = await _mediator.Send(command);
 
             return result.Match(
